@@ -1,0 +1,4 @@
+$(document).ready(function() {
+$('h1').hide(2000).slowdown();
+$('h1').show(1000).slowdown();
+}
